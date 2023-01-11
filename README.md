@@ -1,2 +1,2 @@
 # C
-Programming exercises from my University course.
+Some programming exercises from my University course.
