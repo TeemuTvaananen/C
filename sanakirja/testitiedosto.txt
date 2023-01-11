@@ -1,0 +1,10 @@
+aiti;mom
+isa;dad
+koira;dog
+kissa;cat
+vene;boat
+auto;car
+pyora;bike
+aurinko;sun
+kuu;moon
+ohjelmointi;programming
